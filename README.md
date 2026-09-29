@@ -61,6 +61,7 @@ Event
 
 - [`docs/KIN_Game_Project_Design_v0.5.md`](docs/KIN_Game_Project_Design_v0.5.md) — 六层主设计规格
 - [`docs/systems/Social_Causality_System_v0.1.md`](docs/systems/Social_Causality_System_v0.1.md) — 社会因果系统详细规格
+- [`docs/strategy/AI_Native_Capability_Elastic_Architecture.md`](docs/strategy/AI_Native_Capability_Elastic_Architecture.md) — AI-Native 能力弹性架构：定义 K-I-N 如何随通用模型能力提升而扩张
 - [`docs/archive/Jev_Causal_World_Design_v0.4_Growth_Logic_2026-09-28.md`](docs/archive/Jev_Causal_World_Design_v0.4_Growth_Logic_2026-09-28.md) — v0.4 原始设计基线
 
 ## 六层结构
@@ -71,6 +72,14 @@ Event
 4. **社会因果 / Social Causality** — 事件如何变成记忆、关系、身份、组织与新的行为
 5. **技术架构 / How** — 规则系统、Jev、Belief、Memory、History Ledger 等如何分工
 6. **MVP 与验证 / Proof** — 第一版究竟验证什么，什么算成功，什么算失败
+
+## AI-Native 长期原则
+
+- 模型可以替换，世界状态必须连续
+- 智能提升时逐步开放更高的有效自由度，而不是重写产品
+- 长期资产优先沉淀在 World State、History、Memory、Tools、Evaluation 中
+- 每一层新增智能能力都应有对应的验证集
+- 为未来能力预留接口，但不为尚不存在的能力提前制造复杂系统
 
 ## 设计红线
 
