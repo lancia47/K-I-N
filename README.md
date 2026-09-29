@@ -61,7 +61,7 @@ Event
 
 - [`docs/KIN_Game_Project_Design_v0.5.md`](docs/KIN_Game_Project_Design_v0.5.md) — 六层主设计规格
 - [`docs/systems/Social_Causality_System_v0.1.md`](docs/systems/Social_Causality_System_v0.1.md) — 社会因果系统详细规格
-- [`docs/archive/v0.4_来源与设计宪法.md`](docs/archive/v0.4_来源与设计宪法.md) — v0.4 上游文档来源与不可轻易破坏的设计公理
+- [`docs/archive/Jev_Causal_World_Design_v0.4_Growth_Logic_2026-09-28.md`](docs/archive/Jev_Causal_World_Design_v0.4_Growth_Logic_2026-09-28.md) — v0.4 原始设计基线
 
 ## 六层结构
 
