@@ -60,6 +60,7 @@ Event
 ## 文档
 
 - [`docs/KIN_Game_Project_Design_v0.5.md`](docs/KIN_Game_Project_Design_v0.5.md) — 六层主设计规格
+- [`docs/baselines/Tribe_Survival_Ecology_KIN_Execution_Baseline_v0.1.md`](docs/baselines/Tribe_Survival_Ecology_KIN_Execution_Baseline_v0.1.md) — 当前开发执行基线：生存底座 → 多物种生态 → KIN 社会因果
 - [`docs/systems/Social_Causality_System_v0.1.md`](docs/systems/Social_Causality_System_v0.1.md) — 社会因果系统详细规格
 - [`docs/strategy/AI_Native_Capability_Elastic_Architecture.md`](docs/strategy/AI_Native_Capability_Elastic_Architecture.md) — AI-Native 能力弹性架构：定义 K-I-N 如何随通用模型能力提升而扩张
 - [`docs/archive/Jev_Causal_World_Design_v0.4_Growth_Logic_2026-09-28.md`](docs/archive/Jev_Causal_World_Design_v0.4_Growth_Logic_2026-09-28.md) — v0.4 原始设计基线
